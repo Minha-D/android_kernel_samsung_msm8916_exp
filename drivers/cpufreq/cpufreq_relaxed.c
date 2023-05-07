@@ -13,6 +13,7 @@
  */
 
 #include <linux/slab.h>
+#include <linux/err.h>
 #include "cpufreq_governor.h"
 #include <linux/display_state.h>
 
